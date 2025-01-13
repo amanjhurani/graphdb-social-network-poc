@@ -28,8 +28,7 @@ This is a simple social feed application built using **Flask** (Python) and **Ne
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/social-feed-app.git
-   cd social-feed-app
+   git clone https://github.com/amanjhurani/graphdb-social-network-poc.git
    ```
 
 2. Install dependencies:
